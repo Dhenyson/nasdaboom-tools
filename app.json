@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "NasdaBoom Tools",
+    "slug": "Nasdaboom",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/nasdaboom-power.png",
+    "splash": {
+      "image": "./assets/load.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#170120"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nasdaboom.tools"
+    },
+    "web": {
+      "favicon": "./assets/nasdaboom-power.png"
+    },
+    "android": {
+      "package": "com.nasdaboom.tools",
+      "useNextNotificationsApi": true
+    }
+  }
+}
