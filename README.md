@@ -1,3 +1,5 @@
+**Date of first original commit:** _08/28/2020 (first app)_
+
 **Heads up:**
 This app was created at the beginning of my studies, without environment variables and several errors, but I made it public without correcting or improving the code because my intention is just to follow my evolution. I left the sensitive data as empty strings, but the rest is 100% functional.
 
